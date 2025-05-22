@@ -1,7 +1,5 @@
-# MO2-Radar by KarniOG
-<p align="center">
-  <img src="https://github.com/KarniOG/MO2-Radar/assets/166090320/e0227110-1555-4f46-af6e-cfc9dc06664b"/>
-</p>
+# Mo2Radar By KDO83
+# Usando de base o MO2-Radar by KarniOG
 
 This is an external Mortal Online 2 radar hack made for Linux and written in
 Python. The code is relatively simple so it should be easy to extend or adapt
@@ -66,23 +64,14 @@ sudo apt install python3-venv
 
 Next, you can launch the cheat by running:
 ```
-sudo sh launch.sh
+python simple_radar.py
 ```
 I recommend using the [Flatpak](https://flathub.org/apps/com.valvesoftware.Steam)
 version of Steam.
 
 
-## Usage
-
-The program must be run as root. To start the radar, open a terminal in the
-directory where you extracted the program and run:
-```
-sudo python3 -OO main.py
-```
-while the game is running.
-
-You can preview the radar graphics without running the hack ingame by running
-`demo.py`.
+Existem varios scripts que podem ser usados para scanear memoria e atualizar os offsets caso
+o jogo seja atualizado e o radar pare de funcionar
 
 You can close the radar by either pressing `Esc` inside the radar window or
 `Ctrl+C` inside the terminal where you ran the program.
