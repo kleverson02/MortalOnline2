@@ -1,0 +1,29 @@
+=== SCAN DE OUTROS JOGADORES ===
+Data/Hora: 2025-05-30 17:21:28
+
+Total de atores: 1126
+
+=== JOGADOR 1 ===
+Endereço: 0x1892B0010
+FName: BP_PlayerCharacter_C
+Nome: Voltarol
+Saúde: 113.93523406982422/115.83528900146484
+Posição: X=443176.69, Y=662807.19, Z=-179095.41
+
+Possíveis nomes de guilda:
+
+==================================================
+
+=== JOGADOR 2 ===
+Endereço: 0xCEA87780
+FName: BP_PlayerCharacter_C
+Nome: Ronuk
+Saúde: 74.93004608154297/216.025146484375
+Posição: X=456140.19, Y=684820.12, Z=-181027.87
+
+Possíveis nomes de guilda:
+
+==================================================
+
+
+Total de jogadores encontrados: 2

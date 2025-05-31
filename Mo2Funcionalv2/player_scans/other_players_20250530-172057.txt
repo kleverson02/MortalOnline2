@@ -1,0 +1,18 @@
+=== SCAN DE OUTROS JOGADORES ===
+Data/Hora: 2025-05-30 17:20:57
+
+Total de atores: 1120
+
+=== JOGADOR 1 ===
+Endereço: 0x1892B0010
+FName: BP_PlayerCharacter_C
+Nome: Voltarol
+Saúde: 112.08187103271484/115.83528900146484
+Posição: X=441942.82, Y=670450.79, Z=-179417.68
+
+Possíveis nomes de guilda:
+
+==================================================
+
+
+Total de jogadores encontrados: 1
